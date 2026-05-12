@@ -1,0 +1,7 @@
+# Bỏ qua thư mục chứa data
+archive/
+
+# Bỏ qua các file rác của Jupyter Notebook và Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
